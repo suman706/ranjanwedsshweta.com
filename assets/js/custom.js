@@ -31,9 +31,9 @@
   if(countDown.length){
     countDown.countDown({
       targetDate: {
-        'day'   : 27,
-        'month' : 1,
-        'year'  : 2022,
+        'day'   : 28,
+        'month' : 11,
+        'year'  : 2023,
         'hour'  : 23,
         'min'   : 59,
         'sec'   : 59
